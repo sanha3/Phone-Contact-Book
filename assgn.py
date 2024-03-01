@@ -31,11 +31,11 @@ if __name__ == "__main__":
     create_table()
 
     # Inserting 5 rows of data
-    insert_data("John Doe", "1234567890", "john@example.com")
-    insert_data("Jane Smith", "9876543210", "jane@example.com")
-    insert_data("Alice Johnson", "5551234567", "alice@example.com")
-    insert_data("Bob Brown", "9998887777", "bob@example.com")
-    insert_data("Emma Davis", "1112223333", "emma@example.com")
+    insert_data("sanha", "7583734890", "sanha@gmail.com")
+    insert_data("firdose", "4356278908", "firdose@gmail.com")
+    insert_data("sheikh", "2341567356", "sheikh@gmail.com")
+    insert_data("megha", "9375892340", "megha@gmail.com")
+    insert_data("varun", "9342763876", "varunb@gmail.com")
 
     # Fetching and displaying all data
     contacts = fetch_data()
